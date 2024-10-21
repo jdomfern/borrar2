@@ -1,4 +1,5 @@
 def saludos():
-    print("hola")
+    print("hola gente")
     
 saludos()
+
